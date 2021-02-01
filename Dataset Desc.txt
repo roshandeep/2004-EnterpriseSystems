@@ -1,0 +1,4 @@
+The data was provided by Starseed Medical Inc, Ontario. It is a raw dataset named “cannabisGrowthRaw2020”, which represents approximately 1005 of the testing data for Dec 1st to 10th, 2019. It contains details about the cannabis strains, the features used to classify them. 
+It has 1472 records. These variables are: -
+•	Independent Variables- Actual measurement parameters of the cannabis plant which are branch form, crown form, stem form, insect resistance, vigor, DBH (diameter base height), Survival, height.
+•	Dependent Variable- Classification of CBD cannabis strains (none, low, average, good, best) 
